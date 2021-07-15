@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vladyslav Stoliarchuk
+- 👀 I’m interested in server side development on C#/.Net Core
+- 🌱 I’m currently learning Design Patterns
+- 📫 How to reach me stoliarchuk.vlad@gmail.com
